@@ -1,0 +1,42 @@
+This topic describes how to install or update the latest release of the AWS Command Line Interface (AWS CLI) on supported operating systems. For information on the latest releases of AWS CLI, see the AWS CLI version 2 Changelog on GitHub.
+
+To install a past release of the AWS CLI, see Installing past releases of the AWS CLI version 2. For uninstall instructions, see Uninstalling the AWS CLI version 2.
+
+Important
+AWS CLI versions 1 and 2 use the same aws command name. If you previously installed AWS CLI version 1, see Migrating from AWS CLI version 1 to version 2.
+
+Topics
+
+AWS CLI install and update instructions
+Troubleshooting AWS CLI install and uninstall errors
+Next steps
+AWS CLI install and update instructions
+For installation instructions, expand the section for your operating system.
+
+Linux
+macOS
+Windows
+Troubleshooting AWS CLI install and uninstall errors
+If you come across issues after installing or uninstalling the AWS CLI, see Troubleshooting AWS CLI errors for troubleshooting steps. For the most relevant troubleshooting steps, see Command not found errors, The "aws --version" command returns a different version than you installed, and The "aws --version" command returns a version after uninstalling the AWS CLI.
+
+Next steps
+After completing the steps in Prerequisites to use the AWS CLI version 2 and installing the AWS CLI, you should perform a Quick setup.
+
+
+
+Did this page help you?
+Yes
+No
+Provide feedback
+Edit this page on GitHub 
+Next topic:Past releases
+Previous topic:Prerequisites
+Need help?
+Try AWS re:Post 
+Connect with an AWS IQ expert 
+PrivacySite termsCookie preferences© 2023, Amazon Web Services, Inc. or its affiliates. All rights reserved.
+
+On this page
+AWS CLI install and update instructions
+Troubleshooting AWS CLI install and uninstall errors
+Next steps
